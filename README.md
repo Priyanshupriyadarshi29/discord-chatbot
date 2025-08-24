@@ -3,8 +3,7 @@
 A simple and minimal Discord chatbot built with Node.js and the `discord.js` library. This bot can respond to slash commands and text messages, and is easily extendable.
 
 ## 🌟 Features
-
-- Responds to `ping` slash command with `Pong!`
+-Responds to `ping` slash command with `Pong!`
 - Replies to any user message with a preset response
 - Built using modern Discord.js v14 API
 - Supports `.env` for environment variable management
@@ -80,6 +79,6 @@ To change reply messages, update the `message.reply` and `interaction.reply` log
 
 
 
-### 🙌 Author
+### 🙌 Author 
 
 [Priyanshu Priyadarshi](https://github.com/Priyanshupriyadarshi29)
